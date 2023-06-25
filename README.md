@@ -17,3 +17,42 @@ Highlights:
   - API Routes, Serverless API, 
   - Compatibility across multiple browsers and platforms, 
   - Deployed on Vercel 
+### Prerequisites
+
+**Node version 14.x**
+
+### Cloning the repository
+
+```shell
+git clone 
+```
+
+### Install packages
+
+```shell
+npm i
+```
+
+### Setup .env file
+
+GOOGLE_ID=
+GOOGLE_CLIENT_SECRET=
+MONGODB_URI=
+
+NEXTAUTH_URL=
+NEXTAUTH_URL_INTERNAL=
+NEXTAUTH_SECRET=
+
+### Start the app
+
+```shell
+npm run dev
+```
+
+## Available commands
+
+Running commands with npm `npm run [command]`
+
+| command         | description                              |
+| :-------------- | :--------------------------------------- |
+| `dev`           | Starts a development instance of the app |
