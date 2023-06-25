@@ -12,8 +12,8 @@ Descriptions of the Product: With the overgrowing popularity of ChatGPT we requi
   - Add/Edit/Copy/Delete Prompts Full CRUD operations
 
 Highlights: 
- -SEO friendly, 
- -File-based routing system,
- -API Routes, Serverless API, 
- -compatibility across multiple browsers and platforms, 
- -deployed on Vercel 
+  - SEO friendly, 
+  - File-based routing system,
+  - API Routes, Serverless API, 
+  - Compatibility across multiple browsers and platforms, 
+  - Deployed on Vercel 
