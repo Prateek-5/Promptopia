@@ -7,13 +7,13 @@ Descriptions of the Product: With the overgrowing popularity of ChatGPT we requi
 ## Tech: React, React-dom, Tailwindcss, Next, NextAuth, MongoDB, Mongoose, Bcrypt(Password hashing )
 
  Functionality Offered: 
- -Log in using NEXT Auth and Google Authentication, 
- -Search based on tags and usernames, 
- -Add/Edit/Copy/Delete Prompts Full CRUD operations
+  -Log in using NEXT Auth and Google Authentication, 
+  -Search based on tags and usernames, 
+  -Add/Edit/Copy/Delete Prompts Full CRUD operations
 
 Highlights: 
--SEO friendly, 
--File-based routing system,
--API Routes, Serverless API, 
--compatibility across multiple browsers and platforms, 
--deployed on Vercel 
+ -SEO friendly, 
+ -File-based routing system,
+ -API Routes, Serverless API, 
+ -compatibility across multiple browsers and platforms, 
+ -deployed on Vercel 
