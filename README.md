@@ -2,6 +2,10 @@
 
 ## Introduction
 Descriptions of the Product: With the overgrowing popularity of ChatGPT we require particular AI prompts to yield better results. Promptopia is built with the intention of solving the very same problem. It helps users create new prompts, share them with other users, and Copy existing ones depending on their need
+
+ 
+ -  Website is fully functional and hosted at the following link
+ -  https://promptopia-one-chi.vercel.app/
 ![Screenshot from 2023-06-25 14-02-49](https://github.com/Prateek-5/Promptopia/assets/106007852/deddfd14-9972-446d-ba36-afb9330bee85)
 ![Screenshot from 2023-06-25 14-04-01](https://github.com/Prateek-5/Promptopia/assets/106007852/9909e6ab-ae74-45c5-ad0a-3ad2919d940a)
 ![Screenshot from 2023-06-25 14-03-38](https://github.com/Prateek-5/Promptopia/assets/106007852/822f3e77-4a78-45c6-888c-ade4aae63160)
